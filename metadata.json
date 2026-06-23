@@ -1,0 +1,6 @@
+{
+  "name": "CFC Youth Academy",
+  "description": "Football academy player, attendance, coaching, finance, and report tracking dashboard",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
